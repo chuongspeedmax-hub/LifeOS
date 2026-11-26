@@ -21,3 +21,6 @@ dist/
 coverage/
 src/app/page.backup.tsx
 src/app/page.backup.tsx
+
+# TypeScript build cache
+*.tsbuildinfo
